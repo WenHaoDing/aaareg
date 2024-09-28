@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9cec94c2-dca0-44c8-9558-404a649e312a" name="ws1">
+        <fileTransfer accessType="SFTP" host="bm-yaplab1.dept.ic.ac.uk" port="22" sshConfigId="e141e5a5-18c3-4d6f-bade-e148663b9bab" sshConfig="wenhao@bm-yaplab1.dept.ic.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

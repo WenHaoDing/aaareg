@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="bm-yaplab1.dept.ic.ac.uk" id="e141e5a5-18c3-4d6f-bade-e148663b9bab" port="22" nameFormat="DESCRIPTIVE" username="wenhao" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
